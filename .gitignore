@@ -3,3 +3,6 @@ out/
 !**/src/test/**/out/
 
 images/
+
+.idea/
+*.iml
